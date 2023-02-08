@@ -1,1 +1,3 @@
-This is a text
+
+This is a merge!
+
